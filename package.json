@@ -1,0 +1,14 @@
+{
+  "name": "@avvvet/rat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Awet Tsegazeab",
+  "repository": {
+    "url": "git://github.com/avvvet/package-d.git"
+  },
+  "license": "ISC"
+}
